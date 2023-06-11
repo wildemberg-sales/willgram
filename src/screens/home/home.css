@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Home{
+    background-color: rgb(213, 213, 213);
+    height: 100vh;
+}
